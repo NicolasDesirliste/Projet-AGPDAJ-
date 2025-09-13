@@ -1,0 +1,6 @@
+module RHapp
+typeinfo appRHapp.qmltypes
+prefer :/qt/qml/RHapp/
+Main 1.0 Main.qml
+depends QtQuick
+

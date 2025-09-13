@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/RHapp">
+    <file alias="qmldir">C:/Users/33769/Documents/RHapp/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/RHapp/qmldir</file>
+  </qresource>
+</RCC>
+

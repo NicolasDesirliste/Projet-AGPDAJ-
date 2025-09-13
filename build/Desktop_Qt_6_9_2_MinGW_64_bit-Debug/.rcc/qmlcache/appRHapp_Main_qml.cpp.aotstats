@@ -1,0 +1,164 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessful": true,
+                        "column": 23,
+                        "durationMicroseconds": 388,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 13
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 26,
+                        "durationMicroseconds": 149,
+                        "errorMessage": "",
+                        "functionName": "orientation",
+                        "line": 15
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 22,
+                        "durationMicroseconds": 2340,
+                        "errorMessage": "Cannot generate efficient code for call to untyped JavaScript function",
+                        "functionName": "onPaint",
+                        "line": 25
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 27,
+                        "durationMicroseconds": 90,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 30,
+                        "durationMicroseconds": 104,
+                        "errorMessage": "",
+                        "functionName": "orientation",
+                        "line": 56
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 27,
+                        "durationMicroseconds": 62,
+                        "errorMessage": "Cannot access value for name height",
+                        "functionName": "y",
+                        "line": 65
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 26,
+                        "durationMicroseconds": 523,
+                        "errorMessage": "",
+                        "functionName": "onTriggered",
+                        "line": 75
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 25,
+                        "durationMicroseconds": 172,
+                        "errorMessage": "",
+                        "functionName": "onFinished",
+                        "line": 100
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 25,
+                        "durationMicroseconds": 115,
+                        "errorMessage": "",
+                        "functionName": "target",
+                        "line": 87
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 21,
+                        "durationMicroseconds": 113,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: window",
+                        "functionName": "to",
+                        "line": 89
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 25,
+                        "durationMicroseconds": 161,
+                        "errorMessage": "",
+                        "functionName": "target",
+                        "line": 94
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 21,
+                        "durationMicroseconds": 48,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: window",
+                        "functionName": "to",
+                        "line": 96
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 31,
+                        "durationMicroseconds": 75,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 106
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 20,
+                        "durationMicroseconds": 348,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 120
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 29,
+                        "durationMicroseconds": 159,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 116
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 39,
+                        "durationMicroseconds": 146,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 117
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 35,
+                        "durationMicroseconds": 121,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 127
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 28,
+                        "durationMicroseconds": 326,
+                        "errorMessage": "",
+                        "functionName": "onClicked",
+                        "line": 136
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 31,
+                        "durationMicroseconds": 74,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 135
+                    }
+                ],
+                "filePath": "C:/Users/33769/Documents/RHapp/Main.qml"
+            }
+        ],
+        "moduleId": "RHapp(appRHapp)"
+    }
+]

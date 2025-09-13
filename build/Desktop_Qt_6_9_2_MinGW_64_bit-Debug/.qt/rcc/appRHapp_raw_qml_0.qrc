@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/RHapp/">
+    <file alias="Main.qml">C:/Users/33769/Documents/RHapp/Main.qml</file>
+  </qresource>
+</RCC>
+
