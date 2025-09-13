@@ -6,7 +6,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 23,
-                        "durationMicroseconds": 388,
+                        "durationMicroseconds": 233,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 13
@@ -14,7 +14,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 26,
-                        "durationMicroseconds": 149,
+                        "durationMicroseconds": 99,
                         "errorMessage": "",
                         "functionName": "orientation",
                         "line": 15
@@ -22,7 +22,7 @@
                     {
                         "codegenSuccessful": false,
                         "column": 22,
-                        "durationMicroseconds": 2340,
+                        "durationMicroseconds": 1334,
                         "errorMessage": "Cannot generate efficient code for call to untyped JavaScript function",
                         "functionName": "onPaint",
                         "line": 25
@@ -30,7 +30,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 27,
-                        "durationMicroseconds": 90,
+                        "durationMicroseconds": 51,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 22
@@ -38,7 +38,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 30,
-                        "durationMicroseconds": 104,
+                        "durationMicroseconds": 59,
                         "errorMessage": "",
                         "functionName": "orientation",
                         "line": 56
@@ -46,7 +46,7 @@
                     {
                         "codegenSuccessful": false,
                         "column": 27,
-                        "durationMicroseconds": 62,
+                        "durationMicroseconds": 37,
                         "errorMessage": "Cannot access value for name height",
                         "functionName": "y",
                         "line": 65
@@ -54,7 +54,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 26,
-                        "durationMicroseconds": 523,
+                        "durationMicroseconds": 247,
                         "errorMessage": "",
                         "functionName": "onTriggered",
                         "line": 75
@@ -62,7 +62,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 25,
-                        "durationMicroseconds": 172,
+                        "durationMicroseconds": 70,
                         "errorMessage": "",
                         "functionName": "onFinished",
                         "line": 100
@@ -70,7 +70,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 25,
-                        "durationMicroseconds": 115,
+                        "durationMicroseconds": 49,
                         "errorMessage": "",
                         "functionName": "target",
                         "line": 87
@@ -78,7 +78,7 @@
                     {
                         "codegenSuccessful": false,
                         "column": 21,
-                        "durationMicroseconds": 113,
+                        "durationMicroseconds": 46,
                         "errorMessage": "Cannot retrieve a non-object type by ID: window",
                         "functionName": "to",
                         "line": 89
@@ -86,7 +86,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 25,
-                        "durationMicroseconds": 161,
+                        "durationMicroseconds": 70,
                         "errorMessage": "",
                         "functionName": "target",
                         "line": 94
@@ -94,7 +94,7 @@
                     {
                         "codegenSuccessful": false,
                         "column": 21,
-                        "durationMicroseconds": 48,
+                        "durationMicroseconds": 25,
                         "errorMessage": "Cannot retrieve a non-object type by ID: window",
                         "functionName": "to",
                         "line": 96
@@ -102,7 +102,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 31,
-                        "durationMicroseconds": 75,
+                        "durationMicroseconds": 41,
                         "errorMessage": "",
                         "functionName": "centerIn",
                         "line": 106
@@ -110,7 +110,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 20,
-                        "durationMicroseconds": 348,
+                        "durationMicroseconds": 182,
                         "errorMessage": "",
                         "functionName": "color",
                         "line": 120
@@ -118,7 +118,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 29,
-                        "durationMicroseconds": 159,
+                        "durationMicroseconds": 67,
                         "errorMessage": "",
                         "functionName": "bottom",
                         "line": 116
@@ -126,7 +126,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 39,
-                        "durationMicroseconds": 146,
+                        "durationMicroseconds": 84,
                         "errorMessage": "",
                         "functionName": "horizontalCenter",
                         "line": 117
@@ -134,7 +134,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 35,
-                        "durationMicroseconds": 121,
+                        "durationMicroseconds": 36,
                         "errorMessage": "",
                         "functionName": "centerIn",
                         "line": 127
@@ -142,7 +142,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 28,
-                        "durationMicroseconds": 326,
+                        "durationMicroseconds": 86,
                         "errorMessage": "",
                         "functionName": "onClicked",
                         "line": 136
@@ -150,7 +150,7 @@
                     {
                         "codegenSuccessful": true,
                         "column": 31,
-                        "durationMicroseconds": 74,
+                        "durationMicroseconds": 36,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 135

@@ -6,7 +6,7 @@ ApplicationWindow {
     width: 1000
     height: 700
     visible: true
-    title: "RH Manager - Système de Gestion"
+    title: "Application de Gestion et de Préparation des Dossiers d'Affaires Judiciaires"
     color: "#1a1a1a"
 
     Rectangle {
@@ -68,7 +68,7 @@ ApplicationWindow {
 
         Timer {
             id: glareTimer
-            interval: 5000  // 5 secondes entre chaque passage
+            interval: 4000  // 5 secondes entre chaque passage
             running: true
             repeat: true
 
@@ -104,9 +104,9 @@ ApplicationWindow {
 
         Text {
             anchors.centerIn: parent
-            text: "Système de Gestion RH"
+            text: "AGPDAJ - Système de Gestion des dossiers de la Police et de la Justice"
             color: "#ecf0f1"
-            font.pixelSize: 32
+            font.pixelSize: 28
             font.bold: true
         }
 
@@ -125,7 +125,7 @@ ApplicationWindow {
 
             Text {
                 anchors.centerIn: parent
-                text: "Employés"
+                text: "Connexion"
                 color: "white"
                 font.pixelSize: 18
             }
